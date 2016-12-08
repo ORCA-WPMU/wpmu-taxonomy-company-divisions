@@ -1,0 +1,39 @@
+/*
+Theme Name:     WPMU DEV Taxonomy for Company Website Divisions
+Theme URI:      https://github.com/rachelmccollin/wpmu-taxonomy-company-divisions
+Description:    Theme to support WPMU DEV post on custom menu items
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentysixteen
+Version:        1.0
+*/
+
+@import url("../twentysixteen/style.css");
+
+.term-research-development .page-header {
+	border-top: 4px solid #d8a518;
+}
+.term-research-development .page-title {
+	color: #d8a518;
+}
+
+.term-operations .page-header {
+	border-top: 4px solid #5674A0;
+}
+.term-operations .page-title {
+	color: #5674A0;
+}
+
+.term-sales .page-header {
+	border-top: 4px solid #FE6763;
+}
+.term-sales .page-title {
+	color: #FE6763;
+}
+
+.term-sales .page-header {
+	border-top: 4px solid #78D400;
+}
+.term-sales .page-title {
+	color: #78D400;
+}
